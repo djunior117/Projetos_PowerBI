@@ -21,7 +21,7 @@ O objetivo deste repositório é compartilhar modelos de **dashboards profission
 - **📌 Dashboard Financeiro 
 - **📌 Vendas e Performance Comercial
 - **📌 Transposrtadora  
-- **📌 Marketing Digital** → Análise de campanhas, engajamento e ROI.  
+- **📌 Escola
 
 *(Novos projetos serão adicionados em breve!)*
 
