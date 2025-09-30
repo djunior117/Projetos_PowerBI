@@ -1,22 +1,23 @@
-# 📊 Bootcamp Klabin – Excel & Power BI Dashboards
+# 👨‍💻 Portfólio Profissional – David | Analista de Suporte e Dados
 
-Bem-vindo(a) ao meu repositório de **projetos desenvolvidos durante o Bootcamp Klabin** na DIO!  
-Aqui você encontrará dashboards interativos, análises visuais e insights poderosos criados com **Excel avançado** e **Power BI Desktop**.
-
----
-
-## 🚀 Objetivo
-
-Compartilhar modelos de **dashboards profissionais e funcionais**, que podem servir como inspiração, estudo ou base para aplicação em empresas reais.  
-Cada projeto foi pensado para transformar dados em decisões — com clareza, impacto visual e foco estratégico.
+Olá! Eu sou o **David**, Analista de Suporte e Dados, apaixonado por transformar informações em soluções inteligentes.  
+Este repositório é o meu espaço para compartilhar projetos práticos, dashboards interativos e análises que desenvolvi ao longo da minha jornada profissional e acadêmica.
 
 ---
 
-## 📂 Projetos abaixo feito por mim
+## 🚀 Sobre Mim
 
-- 📊 Apresento um Dashboard de Logística desenvolvido em Power BI, com foco em monitorar os principais indicadores da operação.
+Atuo na área de tecnologia com foco em **suporte técnico**, **análise de dados** e **inteligência operacional**.  
+Tenho experiência com ferramentas como **Excel avançado**, **Power BI**, **SQL** e **Python**, aplicando soluções que otimizam processos, melhoram a tomada de decisão e entregam valor real para empresas.
 
-A solução permite:
+📍 Localização: Vila Velha/Espírito Santo, Brasil  
+📧 E-mail: djunior234@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/david-junior-6288b380](https://www.linkedin.com/in/david-junior-6288b380)
+
+---
+
+📊 Apresento um Dashboard de Logística desenvolvido em Power BI, com foco em monitorar os principais indicadores da operação.
+
 
  - ✅ Acompanhar o status dos pedidos (concluídos, em transporte e atrasados)
  - 💰 Controlar custos logísticos (frete, seguro e taxas)
